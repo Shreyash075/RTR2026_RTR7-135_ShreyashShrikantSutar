@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.ipch
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.lib
+*.dll
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+
+# Windows
+Thumbs.db
+Desktop.ini
